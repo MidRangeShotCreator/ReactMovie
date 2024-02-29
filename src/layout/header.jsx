@@ -4,7 +4,7 @@ function Header() {
             <div class="nav-wrapper">
                 <a href="!#" className="brand-logo">React Movies</a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
-                    <li><a href="!#">Repository</a></li>
+                    <li><a href="https://github.com/MidRangeShotCreator/ReactMovie">Repository</a></li>
                 </ul>
             </div>
         </div>
